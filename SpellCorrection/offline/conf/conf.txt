@@ -1,0 +1,6 @@
+english_origin /home/kkmjy/C++/SpellCorrection/offline/yuliao/english.txt 
+chinese_origin /home/kkmjy/C++/SpellCorrection/offline/yuliao/chinese.txt
+en_stop_word /home/kkmjy/C++/SpellCorrection/offline/yuliao/stop_words_english.txt
+ch_stop_word /home/kkmjy/C++/SpellCorrection/offline/yuliao/stop_words_chinese.txt
+dict /home/kkmjy/C++/SpellCorrection/online/data/dict.dat 
+index /home/kkmjy/C++/SpellCorrection/online/data/dict.index
