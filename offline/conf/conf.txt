@@ -1,0 +1,4 @@
+yuliao /home/kkmjy/C++/RssMiniSearchEngine/offline/rss/
+webpage /home/kkmjy/C++/RssMiniSearchEngine/online/data/webpage.lib
+offset /home/kkmjy/C++/RssMiniSearchEngine/online/data/offset.lib
+invert_index_table /home/kkmjy/C++/RssMiniSearchEngine/online/data/invertIndexTable.lib
